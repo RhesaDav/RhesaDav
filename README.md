@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhesadav&show_icons=true&locale=en&layout=compact" alt="rhesadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhesadav&show_icons=true&locale=en" alt="rhesadav" /></p>
+
+<figure><embed src="https://wakatime.com/share/@RhesaDav/51ac4ca3-716b-49a0-aeb7-ce81f14dcea0.svg"></embed></figure>
